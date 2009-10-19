@@ -8,7 +8,7 @@ This class requires [Sean Hubers](http://github.com/shuber) [curl wrapper](http:
 
 ## Demo
 
-A demo of version 1 of this class can be seen [here](http://www.hamstar.co.nz/api/bod.php).  This release is currently at version 0.6 and as yet untested.
+A demo of version 0.1 of this class can be seen [here](http://www.hamstar.co.nz/api/bod.php).  This release is currently at version 0.6 and as yet untested.
 
 ## Usage
 
