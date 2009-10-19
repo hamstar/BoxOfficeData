@@ -3,18 +3,18 @@
 	// Include the curl library
 	require 'curl.php';
 
-
 	/**
 	* Class to search sites that have box office data
 	* and return the box office data and profit data
 	* for a given movie.
 	*
-	* @author		Robert Mcleod
-	* @date			18 October 2009
-	* @copyright	2009 Robert McLeod
-	* @version		0.6
+	* @author    Robert Mcleod
+	* @date	     18 October 2009
+	* @copyright 2009 Robert McLeod
+	* @license   http://www.gnu.org/copyleft/lesser.html  LGPL License 2.1
+	* @link      http://github.com/hamstar/BoxOfficeData
+	* @version   0.6
 	*/
-	
 	class BoxOfficeData {
 
 		// Sets the search URLs for the various sites that have box office data on them
