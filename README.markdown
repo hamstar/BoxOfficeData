@@ -89,16 +89,16 @@ A la google, the ifl() method returns a movie object and takes the same argument
 
 This would output a movie object:
 
-        stdClass Object
-        (
-            [budget] => 30000000
-            [gross] => 184373680
-            [year] => 2009
-            [title] => District 9
-            [profit] => 154373680
-            [url] => http://www.the-numbers.com/movies/2009/DIST9.php
-            [uid] => tn2009DIST9
-        )
+	stdClass Object
+	(
+	    [budget] => 30000000
+	    [gross] => 184373680
+	    [year] => 2009
+	    [title] => District 9
+	    [profit] => 154373680
+	    [url] => http://www.the-numbers.com/movies/2009/DIST9.php
+	    [uid] => tn2009DIST9
+	)
 
 This is only as good as the search results coming from the box office data website.  Some movie names will need to be entered exactly as they appear on the site (such as x-men instead of xmen and spider-man instead of spiderman).
 
