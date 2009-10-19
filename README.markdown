@@ -79,7 +79,7 @@ This would output a movie object:
 	    [uid] => tn2009DIST9
 	)
 
-As you can see the production budget, gross revenue, and profit are listed, as well as other obvious data.
+As you can see the production budget, gross revenue, and profit are listed, as well as other obvious data.  You can format the figures with [number_format](http://www.php.net/number_format).
 
 ### The "I'm Feeling Lucky" method
 
